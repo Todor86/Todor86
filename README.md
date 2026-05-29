@@ -38,5 +38,12 @@ Welcome to my GitHub profile! I am deeply passionate about creating user-centric
 ---
 
 ### 📈 Current Projects & Focus
-- 📱 Developing and designing a mobile app project (UI layouts, user flows, and logos).
-- ⚡ Deepening my knowledge in JS DOM manipulation, Async/Await, and CSS animations/transitions.
+### 📈 Featured Projects
+#### 📱 [TurboClick (Clicker-Speedometer)](https://github.com/Todor86/TurboClick)
+An engaging mobile clicker application featuring custom UI layouts, interactive design, and speed-tracking mechanics.
+- **My Role:** UI Layout Designer, Logo Designer, and Frontend Developer.
+- **Tech Stack:** Figma (UX/UI & branding), HTML5, CSS3 (Animations & Transitions), JavaScript.
+
+---
+### ⚡ Current Focus
+- Deepening my knowledge in JS DOM manipulation, Async/Await, and the Event Loop.
